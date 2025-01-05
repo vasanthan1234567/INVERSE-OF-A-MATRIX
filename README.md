@@ -17,9 +17,8 @@ End the program
 ## Program:
 ```
 #Program to find the inverse of a matrix.
-#Developed by: 
-#Developed by:  KABELAN G K
-#RegisterNumber: 24900985
+#Developed by: vasanthan N
+#Register number:24900250
 import numpy as np
 A=np.array([
     [1,0,3],
